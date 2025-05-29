@@ -1,0 +1,60 @@
+28 May 2025
+
+## Summary of Progress
+
+### Firebase Auth-Based Flutter App
+- Implemented Splash Screen, Login, and Signup.
+- Firebase Auth integration (email/password).
+- Google Sign-In functionality successfully added.
+- Persistent login setup complete.
+- Started working on Home Page design — aiming for a clean, aesthetic experience with animated drawer and stunning theme.
+
+### Firebase Limitations
+- Currently using Firebase free plan — **Storage not accessible**, so PDF uploads/downloads (for resumes) are being handled differently.
+- Decided to store resumes locally or generate from template using HTML-to-PDF in-app (Flutter package planned).
+
+---
+
+## What I Learned Today
+- Firebase Auth basics with Google sign-in in Flutter.
+- Handling persistent sessions in Flutter.
+- Importance of UI/UX: a good app isn’t just functional — it should *wow* the user.
+- Markdown and GitHub Journaling for dev tracking.
+
+---
+
+## In Progress
+- Designing and coding a beautiful Home Page UI:
+  - Animated slider drawer.
+  - Clean theme and consistent design language.
+- Resume Builder templates (basic layout ideas in mind).
+- Will later integrate dynamic data entry and export to PDF within Flutter.
+
+---
+
+## Tools & Tech Stack
+- Flutter
+- Firebase Auth
+- Google Sign-In
+- Dart
+- GitHub
+
+---
+
+## Personal Reflection
+I’m still at the beginning, but I can already feel the excitement of building something real. Even though I’m just starting out in Flutter, I’m confident that this project will turn into something impressive — both technically and visually.
+
+I’ll be uploading every step to GitHub and journaling regularly to stay consistent and accountable.
+
+---
+
+## Next Steps
+- Finalize UI/UX of home screen.
+- Implement 2–3 resume templates (static layout first).
+- Add theme toggle (dark/light).
+- Explore offline saving mechanism if Firebase Storage remains inaccessible.
+
+---
+
+> This is just Day One of taking Flutter seriously. More is coming soon 🚀
+
