@@ -1,4 +1,4 @@
-# my life journal (aka me being way too deep at 3am)
+# My life journal (aka me being way too deep at 3am)
 
 yo what's good!! welcome to my messy brain dump where i basically document my entire existence lmao 
 
