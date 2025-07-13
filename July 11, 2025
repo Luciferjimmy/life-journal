@@ -1,0 +1,15 @@
+11 July 2025 — The Visual Foundation
+
+"Code is not just logic. It’s the way it feels."
+
+
+
+Implemented a custom transition screen for a smooth app launch.
+
+Added a login screen with a username input system (user-generated or randomly assigned).
+
+Refined Flutter navigation logic using Future.delayed for controlled screen switching.
+
+Debugged splash screen issues; began removing the native Android launch logo to make Flutter handle all UI from the start.
+
+💡 Lesson: Polish matters. Transitions, delays, and UI flow define the user experience.
