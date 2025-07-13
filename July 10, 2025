@@ -1,0 +1,15 @@
+10 July 2025 — The Transition Begins
+
+"Built with frustration. Powered by persistence."
+
+
+
+Switched from buggy Xcode iOS simulator to Android Studio for better stability.
+
+Configured Flutter app to run on a real Android device (Samsung M34).
+
+Installed Android NDK, fixed Gradle sync issues, and handled Firebase plugin compatibility warnings.
+
+Launched the first successful build directly on my phone.
+
+💡 Lesson: When platforms get in the way, adapt. Shift tools, keep building.
