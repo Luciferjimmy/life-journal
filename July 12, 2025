@@ -1,0 +1,15 @@
+12 July 2025 — Persistence and Polish
+
+"Errors don’t break me — they train me."
+
+
+
+Fought through platform bugs, custom config errors, and NDK mismatches.
+
+Successfully made the app relaunch cleanly from the login state without default splash artifacts.
+
+Finalized the initial visual stack: Transition → Login Screen, using only Flutter-managed UI.
+
+Cleaned up the styles.xml and launch_background.xml to eliminate unwanted app logo flashes.
+
+💡 Lesson: Real polish lies beyond "it works." It’s about how it works, and what doesn’t get in the way.
