@@ -1,0 +1,12 @@
+23 July 2025
+Commit Message: Added animations using Animate.css and GSAP; Enhanced analogy section
+
+Journal Entry:
+
+Integrated Animate.css for smooth hero and card transitions.
+
+Used GSAP and ScrollTrigger to animate step sections and concept cards.
+
+Wrote 3 beginner-friendly analogies (magic coin, colored glasses, self-destruct letter).
+
+Improved user interface with better padding, spacing, and iconography.
