@@ -1,0 +1,14 @@
+24 July 2025
+Commit Message: Polished typography and UX; Added smooth scroll behavior
+
+Journal Entry:
+
+Refined the homepage typography and added Google Fonts (Inter).
+
+Implemented smooth scrolling using JavaScript for better in-page navigation.
+
+Added responsive design tweaks for mobile viewports.
+
+Improved button animations and nav link hover effects.
+
+Wrote clearer headings and subtitles for easier understanding.
