@@ -1,0 +1,12 @@
+25 July 2025
+Commit Message: Reorganized CSS into modular variables and added quantum color palette
+
+Journal Entry:
+
+Broke CSS into a scalable system with variables: --quantum-blue, --quantum-purple, etc.
+
+Rewrote button and layout styles using new theme variables.
+
+Tweaked animations to be more subtle and fluid.
+
+Reviewed homepage UI/UX with fresh eyes and listed points to improve.
