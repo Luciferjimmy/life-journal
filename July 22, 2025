@@ -1,0 +1,13 @@
+22 July 2025
+Commit Message: Built prototype of quantum simulator homepage and BB84 protocol steps
+
+Journal Entry:
+
+Developed the initial version of the homepage with sections: Hero, About, How It Works, and Concepts.
+
+Added placeholder illustrations and wrote basic HTML structure.
+
+Styled components with CSS gradients and transitions.
+
+Described BB84 steps in text format to simulate photon transmission logic.
+
