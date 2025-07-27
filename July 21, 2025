@@ -1,0 +1,15 @@
+21 July 2025
+Commit Message: Initial concept drafting for quantum cryptography demo
+
+Journal Entry:
+
+Brainstormed the idea for a quantum cryptography simulator for an upcoming hackathon.
+
+Wrote basic notes on BB84 protocol and how to simplify it for beginners.
+
+Planned out features like Alice-Bob base selection and simple animations.
+
+Created a rough sketch of the homepage design on paper.
+
+Started folder structure with index.html, main.css, and main.js.
+
