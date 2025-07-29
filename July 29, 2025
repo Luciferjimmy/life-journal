@@ -1,0 +1,58 @@
+July 29, 2025
+Ethical Hacking Practice & Recon on inDrive Cargo
+Today’s Target:
+Domain: cargo.indrive.com
+
+Program: inDrive (Bug Bounty scope confirmed on HackerOne)
+
+Recon & Observations:
+Discovered login flow on cargo.indrive.com using OTP-based authentication.
+
+Found initial request to GET /proxy/cargo/v2/client/config which loads before OTP — indicates client-side logic bootstrapping.
+
+Noted that the web app uses API endpoints directly on the browser, opening up room for:
+
+OTP endpoint fuzzing
+
+CAPTCHA bypass attempts
+
+OTP logic flaws
+
+Next Steps & Attack Plan:
+Capture OTP Request
+
+Check if OTP can be spammed (rate limiting).
+
+Test for number enumeration.
+
+Capture OTP Verification Request
+
+Replay OTPs.
+
+Try malformed payloads, blank OTPs.
+
+Attempt weak OTPs (123456, 000000).
+
+Check for OTP reuse and session binding flaws.
+
+Headers Tampering
+
+Test removing or altering Origin, Referer.
+
+Bypass CAPTCHA (if present)
+
+Modify/omit captcha token and analyze behavior.
+
+Tools Used:
+Burp Suite (Intercept & Repeater)
+
+HackerOne for Scope Confirmation
+
+Chrome Dev Tools for Request Monitoring
+
+Reflections:
+This was my first real recon on a live bounty target. The OTP login flow seems like a great place to test logic flaws and weak auth. Learned how to break down an authentication flow, map API calls, and prepare a bug bounty testing plan.
+
+🧪 Next Goal:
+Finish testing the OTP flow. If any valid bug is found, prepare a clean and professional HackerOne disclosure report with PoC and video demo.
+
