@@ -12,4 +12,4 @@ Refined Flutter navigation logic using Future.delayed for controlled screen swit
 
 Debugged splash screen issues; began removing the native Android launch logo to make Flutter handle all UI from the start.
 
-💡 Lesson: Polish matters. Transitions, delays, and UI flow define the user experience.
+Lesson: Polish matters. Transitions, delays, and UI flow define the user experience.
